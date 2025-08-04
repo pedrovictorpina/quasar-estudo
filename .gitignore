@@ -138,3 +138,5 @@ teste.*
 *.swp
 *.swo
 *~
+
+.vercel
